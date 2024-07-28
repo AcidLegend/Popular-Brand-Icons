@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+<desc>Created with Fabric.js 1.7.22</desc>
+<defs>
+</defs>
+<g transform="translate(128 128) scale(0.72 0.72)" style="">
+	<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)" >
+	<path d="M 81.532 90 H 8.468 C 3.791 90 0 86.209 0 81.532 V 8.468 C 0 3.791 3.791 0 8.468 0 h 73.063 C 86.209 0 90 3.791 90 8.468 v 73.063 C 90 86.209 86.209 90 81.532 90 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<path d="M 70.084 20.998 l -51.376 19.81 c -3.507 1.407 -3.486 3.363 -0.639 4.235 l 13.182 4.115 l 4.534 14.921 c 0.596 1.645 0.302 2.298 2.03 2.298 c 1.333 0 1.922 -0.61 2.667 -1.333 l 6.406 -6.229 l 13.328 9.847 c 2.453 1.353 4.223 0.652 4.834 -2.277 l 8.749 -41.23 C 74.695 21.562 72.431 19.933 70.084 20.998 z M 42.262 52.598 l -4.388 9.813 l -4.348 -14.309 l 33.469 -19.856 L 42.262 52.598 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(252,253,255); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</g>
+</svg>
